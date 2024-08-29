@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Nothing
+## - 🔭 I’m currently working on ... Nothing
 - 🌱 I’m currently learning ... Sprites Advanced
 - 👯 I’m looking to collaborate on ... Indie Games
 - 🤔 I’m looking for help with ... Nothing
