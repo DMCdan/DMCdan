@@ -1,16 +1,8 @@
 ## Hi there👤
-
-<!--
-**DMCdan/DMCdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on . Nothing
-- 🌱 I’m currently learning . Sprites Advanced
-- 👯 I’m looking to collaborate on . Indie Games
-- 🤔 I’m looking for help with . Nothing
+- 🔭 I’m currently working on . Nada
+- 🌱 I’m currently learning . Sprites Avançados
+- 👯 I’m looking to collaborate on . Jogos Indie
+- 🤔 I’m looking for help with . Com Nada
 - 💬 Ask me about . Sprites
-- 📫 How to reach me: . sendo dm in Discord dmcdaniel
-- 😄 Pronouns: .
+- 📫 How to reach me: . chama dm no Discord dmcdaniel
 - ⚡ Fun fact: . Não me peça pra fazer programação 
--->
